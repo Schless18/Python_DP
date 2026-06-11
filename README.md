@@ -32,8 +32,6 @@ NOTE: All analysis is done using Python, Pandas, Matplotlib and Seaborn.
 - Compare job demand across different countries
 - Export results to CSV/Excel
 
-## Example
-
-![alt text](image.png)
+## Fill this part still
 
 
