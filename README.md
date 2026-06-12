@@ -32,6 +32,17 @@ NOTE: All analysis is done using Python, Pandas, Matplotlib and Seaborn.
 - Compare job demand across different countries
 - Export results to CSV/Excel
 
-#Fill this part still
+## Exmaples
+### What are the most demanded skills for the top 3 data roles?
 
+For the code, click on this link: [Skills_Count.ipynb](3_Project\2_Skills_Count.ipynb)
 
+### Results
+
+![Chart with the likelyhood of a certain skill to be required for a Data job](3_Project\images\skills_count.png)
+
+### Insights
+
+- Python is a skill with high demand (needed for a lot of job posts), we can see that based on the chart, it shows us that in these three Roles "Analyst" with 28%, "Engineer" with 63% and "Scientist" with 71%.
+- SQl as alwys comes king with a miminum 49% of the jobs requiring this basic skill
+- Also we can observe a significant rise in clodu technologies such as AWS, which have become very relevant in todays world.
