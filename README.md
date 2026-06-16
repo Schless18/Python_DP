@@ -76,9 +76,10 @@ For the code click on this link [Salary_Analysis](3_Project\4_Salary_analysis.ip
 ### Results:
 
 ![Chart with salaries for data roles](3_Project\images\Salary_Analysis.png)
-
+![Chart with the most demanded and payed skills](3_Project\images\Skills_2.png)
 
 ### Insights:
 
 - What we can observe is, if you want to make the next jump from Data Analyst to a higher paying job, might as well skip "Senior Data Analyst"  and aim for "Data Engineer" or "Data Scientist", where you can earn more money.
 - The median salary for Data Scientists appears higher than that of Data Engineers, and the Data Scientist box is more compact.
+- Also that niche technologies are well paid but really scare in demand, so you are better off learning Python or SQL.
