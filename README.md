@@ -68,3 +68,17 @@ The graph supports the idea that Python is no longer a “nice-to-have”—it�
 - Visualization tools (Tableau) and Excel remain steady but secondary
 Tableau maintains moderate demand (roughly 20–25%), showing that while it's important, they’re not the primary differentiators in job postings.
 - Excel remains a foundational tool, but the graph suggests employers prioritize programming and cloud skills over traditional spreadsheet work.
+
+### 3.- Salary analysis for Data jobs.
+
+For the code click on this link [Salary_Analysis](3_Project\4_Salary_analysis.ipynb)
+
+### Results:
+
+![Chart with salaries for data roles](3_Project\images\Salary_Analysis.png)
+
+
+### Insights:
+
+- What we can observe is, if you want to make the next jump from Data Analyst to a higher paying job, might as well skip "Senior Data Analyst"  and aim for "Data Engineer" or "Data Scientist", where you can earn more money.
+- The median salary for Data Scientists appears higher than that of Data Engineers, and the Data Scientist box is more compact.
