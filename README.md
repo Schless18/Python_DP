@@ -34,13 +34,11 @@ NOTE: All analysis is done using Python, Pandas, Matplotlib, and Seaborn.
 * Compare job demand across different countries.
 * Export results to CSV/Excel
 
+## Previews:
 
-### What are the most demanded skills for the top 3 data roles?
+### 1.- What are the most demanded skills for the top 3 data roles?
 
-## Exmaples
-### What are the most demanded skills for the top 3 data roles?
-
-For the code, click on this link: [Skills_Count.ipynb](3_Project\2_Skills_Count.ipynb)
+For the code, click on this link: [Skills_Count](3_Project\2_Skills_Count.ipynb)
 
 ### Results
 
@@ -51,3 +49,22 @@ For the code, click on this link: [Skills_Count.ipynb](3_Project\2_Skills_Count.
 - Python is a skill with high demand (needed for a lot of job posts), we can see that based on the chart, it shows us that in these three Roles "Analyst" with 28%, "Engineer" with 63% and "Scientist" with 71%.
 - SQL as alwys comes king with a miminum 49% of the jobs requiring this basic skill
 - Also we can observe a significant rise in clodu technologies such as AWS, which have become very relevant in todays world.
+
+### 2.- Trending skills for Data jobs and are will they more grow or appear less?
+
+For the code click on this link [Skills_Trend](3_Project\3_Skills_Trend.ipynb)
+
+### Results:
+
+![Chart with skills trend for data roles](3_Project\images\skills_trend.png)
+
+
+### Insights:
+
+- SQL continues to dominate the data analytics landscape, holding above 50% demand throughout the entire year. Even at its lowest point, it still sits around 49%, making it the single most consistently required skill across job postings. This reinforces SQL as the baseline competency for anyone entering or advancing in data roles.
+- Python tracks closely behind SQL, maintaining a high likelihood (around 50%+) of appearing in job postings across 2023. This aligns with its versatility across analytics, automation, machine learning, and data engineering.
+The graph supports the idea that Python is no longer a “nice-to-have”—it’s a core requirement for modern data roles.
+- AWS shows a noticeable upward trend over the year, reflecting the broader industry shift toward cloud‑native data stacks.
+- Visualization tools (Tableau) and Excel remain steady but secondary
+Tableau maintains moderate demand (roughly 20–25%), showing that while it's important, they’re not the primary differentiators in job postings.
+- Excel remains a foundational tool, but the graph suggests employers prioritize programming and cloud skills over traditional spreadsheet work.
