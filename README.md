@@ -43,11 +43,11 @@ NOTE: All analysis is done using Python, Pandas, Matplotlib, and Seaborn.
 
 ### 1.- What are the most demanded skills for the top 3 data roles?
 
-For the code, click on this link: [Skills_Count](3_Project\2_Skills_Count.ipynb)
+For the code, click on this link: [Skills_Count](3_Project/2_Skills_Count.ipynb)
 
 ### Results
 
-![Chart with the likelyhood of a certain skill to be required for a Data job](3_Project\images\skills_count.png)
+![Chart with the likelyhood of a certain skill to be required for a Data job](3_Project/images/skills_count.png)
 
 ### Insights
 
@@ -57,11 +57,11 @@ For the code, click on this link: [Skills_Count](3_Project\2_Skills_Count.ipynb)
 
 ### 2.- Trending skills for Data jobs and are will they more grow or appear less?
 
-For the code click on this link [Skills_Trend](3_Project\3_Skills_Trend.ipynb)
+For the code click on this link [Skills_Trend](3_Project/3_Skills_Trend.ipynb)
 
 ### Results:
 
-![Chart with skills trend for data roles](3_Project\images\skills_trend.png)
+![Chart with skills trend for data roles](3_Project/images/skills_trend.png)
 
 ### Insights:
 
@@ -75,12 +75,12 @@ Tableau maintains moderate demand (roughly 20–25%), showing that while it's im
 
 ### 3.- Salary analysis for Data jobs.
 
-For the code click on this link [Salary_Analysis](3_Project\4_Salary_analysis.ipynb)
+For the code click on this link [Salary_Analysis](3_Project/4_Salary_analysis.ipynb)
 
 ### Results:
 
-![Chart with salaries for data roles](3_Project\images\Salary_Analysis.png)
-![Chart with the most demanded and payed skills](3_Project\images\Skills_2.png)
+![Chart with salaries for data roles](3_Project/images/Salary_Analysis.png)
+![Chart with the most demanded and payed skills](3_Project/images/Skills_2.png)
 
 ### Insights:
 
@@ -90,11 +90,11 @@ For the code click on this link [Salary_Analysis](3_Project\4_Salary_analysis.ip
 
 ### 3.- What are the optimal skills to learn for Data jobs?
 
-For the code click on this link [Optmal_Skills](3_Project\5_Optimal_Skills.ipynb)
+For the code click on this link [Optmal_Skills](3_Project/5_Optimal_Skills.ipynb)
 
 ### Results:
 
-![Chart with optimal skills to learn](3_Project\images\skills_opt.png)
+![Chart with optimal skills to learn](3_Project/images/skills_opt.png)
 
 ### Insights:
 
