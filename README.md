@@ -58,7 +58,6 @@ For the code click on this link [Skills_Trend](3_Project\3_Skills_Trend.ipynb)
 
 ![Chart with skills trend for data roles](3_Project\images\skills_trend.png)
 
-
 ### Insights:
 
 - SQL continues to dominate the data analytics landscape, holding above 50% demand throughout the entire year. Even at its lowest point, it still sits around 49%, making it the single most consistently required skill across job postings. This reinforces SQL as the baseline competency for anyone entering or advancing in data roles.
@@ -83,3 +82,24 @@ For the code click on this link [Salary_Analysis](3_Project\4_Salary_analysis.ip
 - What we can observe is, if you want to make the next jump from Data Analyst to a higher paying job, might as well skip "Senior Data Analyst"  and aim for "Data Engineer" or "Data Scientist", where you can earn more money.
 - The median salary for Data Scientists appears higher than that of Data Engineers, and the Data Scientist box is more compact.
 - Also that niche technologies are well paid but really scare in demand, so you are better off learning Python or SQL.
+
+### 3.- What are the optimal skills to learn for Data jobs?
+
+For the code click on this link [Optmal_Skills](3_Project\5_Optimal_Skills.ipynb)
+
+### Results:
+
+![Chart with optimal skills to learn](3_Project\images\skills_opt.png)
+
+### Insights:
+
+- Python and SQL clearly dominate the top-right quadrant:
+    - SQL has the highest job demand by a wide margin.
+    - Python has the highest median salary among all skills.
+
+Together, they form the core skill set that maximizes both employability and earning potential.
+- Niche technologies (Go, Oracle, SQL Server) pay well but have very limited demand.
+    - You can earn more with niche tech
+    - But the number of available roles is tiny
+- Whilst Office 365 skills are necessary nowadays, they don't translate into high-paying jobs.
+- Power BI is becoming a need-to-have for data roles.The pay is solid, but pairing it with Python and SQL significantly increases your chances of landing a top data job.
