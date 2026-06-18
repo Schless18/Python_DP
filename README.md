@@ -24,6 +24,11 @@ NOTE: All analysis is done using Python, Pandas, Matplotlib, and Seaborn.
 * Folder 2 contains: Advanced Python Commands/Functions.
 * Folder 3 contains: the Python project itself.
 
+## Tools Used
+- Python
+- Matplotlib
+- Pandas
+- Seaborn
 
 ## Features
 
